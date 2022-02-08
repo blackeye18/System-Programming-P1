@@ -3,6 +3,9 @@ Project implemented as part of the course Syspro K24 - 2021 - DIT
 Vaccine Monitor app developed in C, using data structures like bloom 
 filters, linked lists and skip lists.
 
+Mark: 100/100
+Final mark: 10/10
+
 How to run:
 
 make
