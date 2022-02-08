@@ -4,7 +4,7 @@ Vaccine Monitor app developed in C, using data structures like bloom
 filters, linked lists and skip lists.
 
 Mark: 100/100
-Final mark: 10/10
+Final mark of k24: 10/10
 
 How to run:
 
